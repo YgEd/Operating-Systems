@@ -1,0 +1,2 @@
+# Project Description
+This project involves extending a character device driver to implement a kernel-based FIFO message queue, enabling multiple producers and consumers to exchange data. The implementation uses concurrency primitives such as mutexes to ensure safe data handling. A user space program is also extended to interact with the driver, testing the functionality of the message queue in a multi-producer/consumer environment.
