@@ -1,8 +1,8 @@
-#Key features:
+# Key features:
 
-Writing and compiling a custom kernel module.
-Adding and registering a new system call in the kernel.
-Testing the system call with user-space programs.
+- Writing and compiling a custom kernel module.
+- Adding and registering a new system call in the kernel.
+- Testing the system call with user-space programs.
 
 
 This project demonstrates the creation of a custom Linux kernel module that adds a new system call to the kernel. 
